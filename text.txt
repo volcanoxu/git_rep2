@@ -1,1 +1,2 @@
 git_p2
+add a line int file 2
